@@ -14,3 +14,15 @@ git init
 inicia um repositório git na pasta
 
 BRANCH - são locais pré-definidos para codificar e depois temos que enviar para o branch master, pois é o branch padrão do código.
+
+git status
+Estatus dos arquivos
+
+git add *
+adicionando os arquivos para o processamento do commit
+
+git commit -m "mensagem"
+salva uma posição do código com uma mensagem para organizar
+
+git log
+ver todos os commits
