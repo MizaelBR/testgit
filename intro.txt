@@ -24,5 +24,8 @@ adicionando os arquivos para o processamento do commit
 git commit -m "mensagem"
 salva uma posição do código com uma mensagem para organizar
 
+git commit -am "mensagem"
+se usar o -am pode fazer o git add mais o git commit em apenas um código
+
 git log
 ver todos os commits
