@@ -1,0 +1,16 @@
+git --help
+Configuração de ajuda do git
+
+git config --list
+Lista a configuração
+
+git config --global user.name "nome_aqui"
+adiciona o nome do programador no git config
+
+git config --global user.email "email_here"
+adiciona o email do programador no git config
+
+git init
+inicia um repositório git na pasta
+
+BRANCH - são locais pré-definidos para codificar e depois temos que enviar para o branch master, pois é o branch padrão do código.
