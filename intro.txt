@@ -29,3 +29,7 @@ se usar o -am pode fazer o git add mais o git commit em apenas um código
 
 git log
 ver todos os commits
+
+git branch
+mostra as branchs
+
