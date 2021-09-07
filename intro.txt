@@ -33,3 +33,24 @@ ver todos os commits
 git branch
 mostra as branchs
 
+git branch nome
+cria uma branch com o nome "nome"
+
+git checkout nome
+muda a branch
+
+git diff
+mostra as alterações
+
+git diff --name--only
+so mostra os nomes dos arquivos que foram alterados
+
+git diff nome_do_file
+mostra as alterações do arquivo escolhido
+
+git checkout HEAD -- nome_do_file
+faz com que o arquivo escolhido volte para a alteração anterior
+
+LOCAL PARA REMOTO
+git remote add origin [link]
+git push -u origin master
