@@ -54,3 +54,7 @@ faz com que o arquivo escolhido volte para a alteração anterior
 LOCAL PARA REMOTO
 git remote add origin [link]
 git push -u origin master
+
+git remote
+mostra os repositorios, exemplo: origin
+
